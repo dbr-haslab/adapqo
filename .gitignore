@@ -1,0 +1,6 @@
+.DS_Store
+.vscode
+.bundle
+*.gem
+_site
+*.sh
