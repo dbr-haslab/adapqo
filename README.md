@@ -18,6 +18,22 @@ Having such an optimizer core can accelerate research and industrial product dev
 platform space, as developers can simplify their design and tasks by using the new optimizer as a
 service.
 
+## Team at INESCTEC and U. Minho
+
+- [José Pereira](https://jopereira.github.io/)
+- [Ana Alonso](https://www.inesctec.pt/en/people/ana-nunes-alonso)
+- [Nuno Faria](https://nuno-faria.github.io/)
+- [Rodrigo Laigner](https://rnlaigner.github.io/) (visiting researcher)
+
+More about [Distributed Database Research at INESCTEC / U. Minho.](https://dbr-haslab.github.io)
+
+## Team at CMU
+
+ - [Andy Pavlo](https://www.cs.cmu.edu/~pavlo/)
+ - [Jignesh Patel](https://jigneshpatel.org/)
+
+More about the [CMU Database Group.](https://db.cs.cmu.edu/)
+
 ## Acknowledgements
 
 This project is funded by [CMU Portugal](https://cmuportugal.org/) (2024.12585.CMU).
