@@ -31,6 +31,7 @@ More about [Distributed Database Research at INESCTEC / U. Minho.](https://dbr-h
 
  - [Andy Pavlo](https://www.cs.cmu.edu/~pavlo/)
  - [Jignesh Patel](https://jigneshpatel.org/)
+ - [Yuchen Liang](https://liangyc.me/)
 
 More about the [CMU Database Group.](https://db.cs.cmu.edu/)
 
