@@ -37,7 +37,7 @@ More about the [CMU Database Group.](https://db.cs.cmu.edu/)
 
 ## Acknowledgements
 
-This project is funded by [CMU Portugal](https://cmuportugal.org/) [(2024.12585.CMU)](https://doi.org/10.54499/2024.12585.CMU).
+This project is funded by [CMU Portugal](https://cmuportugal.org/) [(DOI:10.54499/2024.12585.CMU)](https://doi.org/10.54499/2024.12585.CMU).
 
 <a href="https://cmuportugal.org/"><img src="./assets/images/CMUPT.webp" alt="CMU-PT Logo" width="50%" /></a>
 
